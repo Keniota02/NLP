@@ -22,7 +22,7 @@ the cross-lingual generalization of Transformers
 using pysentimiento (Pérez et al.,2024) for the Spanish subset.
 
 
-2. [Assignment2_2526.ipynb](Assignment2_2526.ipynb): here, we addresses the task of fine-grained
+2. [Assignment2_2526.ipynb](Assignment2/Assignment2_2526.ipynb): here, we addresses the task of fine-grained
 sexism detection (EDOS Task B), which involves
 classifying text as non-sexist or assigning
 it to one of four specific sexist categories.
