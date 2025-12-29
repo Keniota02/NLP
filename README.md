@@ -1,6 +1,6 @@
 # NLP
 Assignments for the exam Natural Language Processing in the second year of Artificial Intelligence Master in Unibo:
-1. [Assignment1_2526.ipynb](Assignment1_2526.ipynb): our approach to Task 2 of
+1. [Assignment1_2526.ipynb](Assignment1/Assignment1_2526.ipynb): our approach to Task 2 of
 the EXIST 2023 challenge: categorizing tweets
 into four classes based on sexist intention (Nonsexist,
 Direct, Reported, Judgmental). Addressing
